@@ -1,0 +1,688 @@
+2016-12-06 10:40:53,986 - INFO : ---------LOG START-------------
+2016-12-06 10:41:08,961 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:08,962 - WARNING : serial closed
+2016-12-06 10:41:20,532 - INFO : ---------LOG START-------------
+2016-12-06 10:41:26,871 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:27,512 - INFO : Data packets received:366
+2016-12-06 10:41:27,512 - WARNING : Skipped 16 bytes before start found
+2016-12-06 10:41:28,473 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:28,524 - INFO : Data packets received:364
+2016-12-06 10:41:28,524 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:41:29,974 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:30,130 - INFO : Data packets received:371
+2016-12-06 10:41:30,130 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:41:31,575 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:33,076 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:33,231 - INFO : Data packets received:737
+2016-12-06 10:41:33,232 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:41:33,715 - INFO : Data packets received:1
+2016-12-06 10:41:33,715 - WARNING : Skipped 16 bytes before start found
+2016-12-06 10:41:34,677 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:34,730 - INFO : Data packets received:363
+2016-12-06 10:41:34,730 - WARNING : Skipped 20 bytes before start found
+2016-12-06 10:41:46,701 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:41:46,702 - WARNING : serial closed
+2016-12-06 10:51:24,726 - INFO : ---------LOG START-------------
+2016-12-06 10:51:31,178 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:31,231 - INFO : Data packets received:364
+2016-12-06 10:51:31,231 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:51:32,679 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:34,180 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:35,779 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:35,836 - INFO : Data packets received:1109
+2016-12-06 10:51:35,837 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:51:37,281 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:37,313 - INFO : Data packets received:371
+2016-12-06 10:51:37,313 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:51:38,782 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:51:38,937 - INFO : Data packets received:371
+2016-12-06 10:51:38,937 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:51:40,382 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:52:03,318 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:52:03,318 - WARNING : serial closed
+2016-12-06 10:54:36,044 - INFO : ---------LOG START-------------
+2016-12-06 10:54:42,497 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:54:43,998 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:54:45,598 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:54:45,749 - INFO : Data packets received:1102
+2016-12-06 10:54:45,749 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:54:46,234 - INFO : Data packets received:1
+2016-12-06 10:54:46,234 - WARNING : Skipped 20 bytes before start found
+2016-12-06 10:54:47,196 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:54:47,356 - INFO : Data packets received:363
+2016-12-06 10:54:47,356 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:54:48,799 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:55:25,687 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:55:25,688 - WARNING : serial closed
+2016-12-06 10:56:59,145 - INFO : ---------LOG START-------------
+2016-12-06 10:57:05,506 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:05,556 - INFO : Data packets received:366
+2016-12-06 10:57:05,557 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:57:07,006 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:07,163 - INFO : Data packets received:371
+2016-12-06 10:57:07,164 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:57:08,606 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:10,205 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:11,806 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:11,859 - INFO : Data packets received:1097
+2016-12-06 10:57:11,859 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:57:13,307 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:13,340 - INFO : Data packets received:371
+2016-12-06 10:57:13,340 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:57:14,808 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:15,012 - INFO : Data packets received:371
+2016-12-06 10:57:15,012 - WARNING : Skipped 31 bytes before start found
+2016-12-06 10:57:16,470 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:26,673 - WARNING : serial closed
+2016-12-06 10:57:49,669 - INFO : ---------LOG START-------------
+2016-12-06 10:57:55,985 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:57,486 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:57,529 - INFO : Data packets received:738
+2016-12-06 10:57:57,529 - WARNING : Skipped 31 bytes before start found
+2016-12-06 10:57:58,987 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:57:59,145 - INFO : Data packets received:371
+2016-12-06 10:57:59,145 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:58:00,591 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:58:02,092 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:58:02,125 - INFO : Data packets received:737
+2016-12-06 10:58:02,125 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:58:03,593 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:58:03,861 - INFO : Data packets received:371
+2016-12-06 10:58:03,861 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:58:05,319 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:58:24,492 - WARNING : serial closed
+2016-12-06 10:59:15,438 - INFO : ---------LOG START-------------
+2016-12-06 10:59:21,803 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:23,304 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:23,457 - INFO : Data packets received:738
+2016-12-06 10:59:23,457 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:59:24,905 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:26,507 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:28,108 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:29,609 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:29,642 - INFO : Data packets received:1469
+2016-12-06 10:59:29,642 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:59:31,110 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:31,313 - INFO : Data packets received:371
+2016-12-06 10:59:31,313 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:59:32,770 - WARNING : sent <s>: stopped streaming
+2016-12-06 10:59:32,929 - INFO : Data packets received:365
+2016-12-06 10:59:32,929 - WARNING : Skipped 32 bytes before start found
+2016-12-06 10:59:34,374 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:02:57,897 - INFO : ---------LOG START-------------
+2016-12-06 11:04:43,117 - INFO : ---------LOG START-------------
+2016-12-06 11:04:49,548 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:51,049 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:51,083 - INFO : Data packets received:736
+2016-12-06 11:04:51,083 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:04:52,550 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:52,707 - INFO : Data packets received:371
+2016-12-06 11:04:52,707 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:04:54,149 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:54,200 - INFO : Data packets received:365
+2016-12-06 11:04:54,201 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:04:55,651 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:55,684 - INFO : Data packets received:371
+2016-12-06 11:04:55,684 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:04:57,152 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:57,355 - INFO : Data packets received:371
+2016-12-06 11:04:57,355 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:04:58,812 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:04:58,865 - INFO : Data packets received:365
+2016-12-06 11:04:58,866 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:05:00,313 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:05:00,346 - INFO : Data packets received:371
+2016-12-06 11:05:00,346 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:05:01,815 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:05:02,146 - INFO : Data packets received:371
+2016-12-06 11:05:02,146 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:05:03,596 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:05:05,099 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:05:05,131 - INFO : Data packets received:737
+2016-12-06 11:05:05,131 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:05:06,600 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:12:26,753 - WARNING : serial closed
+2016-12-06 11:13:31,636 - INFO : ---------LOG START-------------
+2016-12-06 11:13:38,017 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:38,065 - INFO : Data packets received:365
+2016-12-06 11:13:38,065 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:13:39,518 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:39,551 - INFO : Data packets received:371
+2016-12-06 11:13:39,551 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:13:41,019 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:41,175 - INFO : Data packets received:371
+2016-12-06 11:13:41,175 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:13:42,617 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:42,669 - INFO : Data packets received:365
+2016-12-06 11:13:42,669 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:13:44,118 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:44,275 - INFO : Data packets received:371
+2016-12-06 11:13:44,275 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:13:45,721 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:45,774 - INFO : Data packets received:365
+2016-12-06 11:13:45,774 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:13:47,222 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:47,427 - INFO : Data packets received:371
+2016-12-06 11:13:47,427 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:13:48,885 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:13:50,387 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:16:28,671 - WARNING : serial closed
+2016-12-06 11:18:51,672 - INFO : ---------LOG START-------------
+2016-12-06 11:18:58,149 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:18:59,650 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:18:59,792 - INFO : Data packets received:737
+2016-12-06 11:18:59,792 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:19:01,250 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:19:01,410 - INFO : Data packets received:365
+2016-12-06 11:19:01,410 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:19:02,853 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:19:03,013 - INFO : Data packets received:365
+2016-12-06 11:19:03,013 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:19:04,457 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:19:04,618 - INFO : Data packets received:365
+2016-12-06 11:19:04,618 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:19:06,062 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:19:06,222 - INFO : Data packets received:365
+2016-12-06 11:19:06,222 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:19:07,667 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:07,363 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:07,363 - WARNING : serial closed
+2016-12-06 11:20:29,229 - INFO : ---------LOG START-------------
+2016-12-06 11:20:35,721 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:35,781 - INFO : Data packets received:365
+2016-12-06 11:20:35,781 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:20:37,221 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:37,379 - INFO : Data packets received:371
+2016-12-06 11:20:37,379 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:38,824 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:38,885 - INFO : Data packets received:365
+2016-12-06 11:20:38,885 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:40,325 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:40,359 - INFO : Data packets received:371
+2016-12-06 11:20:40,359 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:41,826 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:41,983 - INFO : Data packets received:371
+2016-12-06 11:20:41,983 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:43,429 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:43,589 - INFO : Data packets received:365
+2016-12-06 11:20:43,589 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:45,033 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:45,184 - INFO : Data packets received:364
+2016-12-06 11:20:45,184 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:46,633 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:46,784 - INFO : Data packets received:364
+2016-12-06 11:20:46,784 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:48,230 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:48,390 - INFO : Data packets received:365
+2016-12-06 11:20:48,390 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:49,832 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:49,983 - INFO : Data packets received:365
+2016-12-06 11:20:49,983 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:51,434 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:20:51,585 - INFO : Data packets received:364
+2016-12-06 11:20:51,585 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:20:53,034 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:21:01,493 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:21:01,494 - WARNING : serial closed
+2016-12-06 11:21:50,400 - INFO : ---------LOG START-------------
+2016-12-06 11:21:56,969 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:21:58,470 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:21:58,505 - INFO : Data packets received:737
+2016-12-06 11:21:58,506 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:21:59,970 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:00,127 - INFO : Data packets received:371
+2016-12-06 11:22:00,127 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:01,569 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:01,729 - INFO : Data packets received:365
+2016-12-06 11:22:01,729 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:03,173 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:03,324 - INFO : Data packets received:364
+2016-12-06 11:22:03,324 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:22:04,768 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:04,927 - INFO : Data packets received:365
+2016-12-06 11:22:04,927 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:22:06,371 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:06,514 - INFO : Data packets received:365
+2016-12-06 11:22:06,514 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:07,971 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:09,473 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:09,507 - INFO : Data packets received:737
+2016-12-06 11:22:09,507 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:10,974 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:11,130 - INFO : Data packets received:371
+2016-12-06 11:22:11,130 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:12,572 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:12,715 - INFO : Data packets received:365
+2016-12-06 11:22:12,716 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:14,173 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:14,316 - INFO : Data packets received:365
+2016-12-06 11:22:14,316 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:15,773 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:17,375 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:17,525 - INFO : Data packets received:730
+2016-12-06 11:22:17,525 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:18,975 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:19,126 - INFO : Data packets received:364
+2016-12-06 11:22:19,126 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:22:20,570 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:22,171 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:23,774 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:23,918 - INFO : Data packets received:1097
+2016-12-06 11:22:23,918 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:22:25,374 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:25,430 - INFO : Data packets received:365
+2016-12-06 11:22:25,430 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:22:26,877 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:58,269 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:22:58,269 - WARNING : serial closed
+2016-12-06 11:23:24,490 - INFO : ---------LOG START-------------
+2016-12-06 11:23:30,997 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:31,054 - INFO : Data packets received:365
+2016-12-06 11:23:31,054 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:32,498 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:32,537 - INFO : Data packets received:371
+2016-12-06 11:23:32,537 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:33,999 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:34,140 - INFO : Data packets received:371
+2016-12-06 11:23:34,140 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:35,597 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:35,663 - INFO : Data packets received:365
+2016-12-06 11:23:35,663 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:37,098 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:37,255 - INFO : Data packets received:371
+2016-12-06 11:23:37,256 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:38,701 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:38,765 - INFO : Data packets received:365
+2016-12-06 11:23:38,765 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:40,202 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:40,360 - INFO : Data packets received:371
+2016-12-06 11:23:40,361 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:41,802 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:41,962 - INFO : Data packets received:365
+2016-12-06 11:23:41,962 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:43,406 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:43,558 - INFO : Data packets received:364
+2016-12-06 11:23:43,558 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:23:45,001 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:45,152 - INFO : Data packets received:364
+2016-12-06 11:23:45,152 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:46,601 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:46,752 - INFO : Data packets received:364
+2016-12-06 11:23:46,752 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:48,201 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:48,352 - INFO : Data packets received:364
+2016-12-06 11:23:48,353 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:49,801 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:49,952 - INFO : Data packets received:364
+2016-12-06 11:23:49,952 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:23:51,396 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:52,997 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:53,155 - INFO : Data packets received:731
+2016-12-06 11:23:53,155 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:23:54,595 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:54,755 - INFO : Data packets received:365
+2016-12-06 11:23:54,755 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:56,199 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:23:56,267 - INFO : Data packets received:365
+2016-12-06 11:23:56,268 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:23:57,702 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:25:46,401 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:25:46,402 - WARNING : serial closed
+2016-12-06 11:26:42,526 - INFO : ---------LOG START-------------
+2016-12-06 11:26:49,047 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:49,101 - INFO : Data packets received:365
+2016-12-06 11:26:49,102 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:26:50,547 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:50,703 - INFO : Data packets received:371
+2016-12-06 11:26:50,703 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:26:52,149 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:52,301 - INFO : Data packets received:364
+2016-12-06 11:26:52,301 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:26:53,747 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:53,906 - INFO : Data packets received:365
+2016-12-06 11:26:53,907 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:26:55,347 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:55,507 - INFO : Data packets received:365
+2016-12-06 11:26:55,508 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:26:56,951 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:26:57,014 - INFO : Data packets received:364
+2016-12-06 11:26:57,015 - WARNING : Skipped 21 bytes before start found
+2016-12-06 11:27:07,064 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:07,065 - WARNING : serial closed
+2016-12-06 11:27:18,473 - INFO : ---------LOG START-------------
+2016-12-06 11:27:25,023 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:25,085 - INFO : Data packets received:365
+2016-12-06 11:27:25,085 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:27:26,524 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:26,681 - INFO : Data packets received:371
+2016-12-06 11:27:26,681 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:27:28,126 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:28,286 - INFO : Data packets received:365
+2016-12-06 11:27:28,286 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:27:29,730 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:29,890 - INFO : Data packets received:365
+2016-12-06 11:27:29,890 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:27:31,335 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:45,037 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:27:45,038 - WARNING : serial closed
+2016-12-06 11:29:11,772 - INFO : ---------LOG START-------------
+2016-12-06 11:29:18,293 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:29:19,794 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:29:19,830 - INFO : Data packets received:737
+2016-12-06 11:29:19,831 - WARNING : Skipped 20 bytes before start found
+2016-12-06 11:29:19,831 - WARNING : ID:<107> <Unexpected END_BYTE found <211> instead of <192>
+2016-12-06 11:29:19,831 - DEBUG : 107|€  |   |   |À  |  €|  €|  €|  €|0|-32768|253|211
+2016-12-06 11:29:19,831 - WARNING : Skipped 34 bytes before start found
+2016-12-06 11:29:20,307 - WARNING : ID:<192> <Unexpected END_BYTE found <0> instead of <192>
+2016-12-06 11:29:20,307 - DEBUG : 192| €|  €|  €|  €|  €|  €|  ý|Ö7€|0|0|0|0
+2016-12-06 11:29:20,307 - WARNING : Skipped 40 bytes before start found
+2016-12-06 11:29:21,295 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:29:21,451 - INFO : Data packets received:369
+2016-12-06 11:29:21,452 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:29:22,896 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:12,368 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:12,368 - WARNING : serial closed
+2016-12-06 11:30:21,625 - INFO : ---------LOG START-------------
+2016-12-06 11:30:28,177 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:28,241 - INFO : Data packets received:365
+2016-12-06 11:30:28,241 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:30:29,677 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:29,718 - INFO : Data packets received:371
+2016-12-06 11:30:29,718 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:30:31,178 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:31,336 - INFO : Data packets received:371
+2016-12-06 11:30:31,336 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:30:32,778 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:32,840 - INFO : Data packets received:365
+2016-12-06 11:30:32,840 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:30:34,278 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:30:34,437 - INFO : Data packets received:371
+2016-12-06 11:30:34,437 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:30:35,881 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:45:42,334 - INFO : ---------LOG START-------------
+2016-12-06 11:45:54,123 - INFO : ---------LOG START-------------
+2016-12-06 11:46:06,588 - INFO : ---------LOG START-------------
+2016-12-06 11:53:34,408 - INFO : ---------LOG START-------------
+2016-12-06 11:53:59,332 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:53:59,332 - WARNING : serial closed
+2016-12-06 11:54:04,041 - INFO : ---------LOG START-------------
+2016-12-06 11:55:05,019 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:55:05,021 - WARNING : serial closed
+2016-12-06 11:55:07,896 - INFO : ---------LOG START-------------
+2016-12-06 11:55:14,362 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:55:26,837 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:55:26,837 - WARNING : serial closed
+2016-12-06 11:55:30,631 - INFO : ---------LOG START-------------
+2016-12-06 11:55:37,047 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:55:37,117 - INFO : Data packets received:366
+2016-12-06 11:55:37,117 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:55:38,548 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:56:49,155 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:56:49,155 - WARNING : serial closed
+2016-12-06 11:56:52,955 - INFO : ---------LOG START-------------
+2016-12-06 11:56:59,368 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:56:59,439 - INFO : Data packets received:365
+2016-12-06 11:56:59,439 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:00,871 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:00,914 - INFO : Data packets received:371
+2016-12-06 11:57:00,914 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:02,372 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:02,525 - INFO : Data packets received:372
+2016-12-06 11:57:02,525 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:03,976 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:04,046 - INFO : Data packets received:365
+2016-12-06 11:57:04,046 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:05,477 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:05,525 - INFO : Data packets received:371
+2016-12-06 11:57:05,526 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:57:06,979 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:07,132 - INFO : Data packets received:372
+2016-12-06 11:57:07,132 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:08,580 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:08,650 - INFO : Data packets received:365
+2016-12-06 11:57:08,650 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:10,081 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:23,047 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:23,048 - WARNING : serial closed
+2016-12-06 11:57:32,008 - INFO : ---------LOG START-------------
+2016-12-06 11:57:38,459 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:38,529 - INFO : Data packets received:365
+2016-12-06 11:57:38,529 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:39,960 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:40,014 - INFO : Data packets received:371
+2016-12-06 11:57:40,014 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:41,461 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:41,617 - INFO : Data packets received:371
+2016-12-06 11:57:41,617 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:57:43,062 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:55,537 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:57:55,537 - WARNING : serial closed
+2016-12-06 11:58:20,852 - INFO : ---------LOG START-------------
+2016-12-06 11:58:27,285 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:19,234 - INFO : ---------LOG START-------------
+2016-12-06 11:59:25,048 - INFO : Data packets received:1
+2016-12-06 11:59:25,048 - WARNING : Skipped 17 bytes before start found
+2016-12-06 11:59:26,011 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:38,496 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:38,496 - WARNING : serial closed
+2016-12-06 11:59:41,699 - INFO : ---------LOG START-------------
+2016-12-06 11:59:48,205 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:48,271 - INFO : Data packets received:365
+2016-12-06 11:59:48,271 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:59:49,707 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:51,209 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:51,364 - INFO : Data packets received:743
+2016-12-06 11:59:51,364 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:59:52,808 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:52,883 - INFO : Data packets received:365
+2016-12-06 11:59:52,884 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:59:54,312 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:54,360 - INFO : Data packets received:372
+2016-12-06 11:59:54,360 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:59:55,814 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:55,970 - INFO : Data packets received:371
+2016-12-06 11:59:55,970 - WARNING : Skipped 32 bytes before start found
+2016-12-06 11:59:57,414 - WARNING : sent <s>: stopped streaming
+2016-12-06 11:59:57,488 - INFO : Data packets received:365
+2016-12-06 11:59:57,488 - WARNING : Skipped 31 bytes before start found
+2016-12-06 11:59:58,916 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:00,418 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:00,626 - INFO : Data packets received:744
+2016-12-06 12:00:00,626 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:00:02,083 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:02,154 - INFO : Data packets received:366
+2016-12-06 12:00:02,154 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:00:03,585 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:03,638 - INFO : Data packets received:371
+2016-12-06 12:00:03,639 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:00:05,088 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:05,356 - INFO : Data packets received:371
+2016-12-06 12:00:05,356 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:00:06,814 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:00:06,885 - INFO : Data packets received:366
+2016-12-06 12:00:06,885 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:00:08,317 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:07:35,496 - INFO : ---------LOG START-------------
+2016-12-06 12:07:48,275 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:07:48,276 - WARNING : serial closed
+2016-12-06 12:07:51,216 - INFO : ---------LOG START-------------
+2016-12-06 12:07:57,540 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:07:57,598 - INFO : Data packets received:365
+2016-12-06 12:07:57,598 - WARNING : Skipped 19 bytes before start found
+2016-12-06 12:07:57,598 - WARNING : ID:<51> <Unexpected END_BYTE found <0> instead of <192>
+2016-12-06 12:07:57,598 - DEBUG : 51|€  |   |   |À  |   |   |   |   |0|0|0|0
+2016-12-06 12:07:58,052 - WARNING : Skipped 35 bytes before start found
+2016-12-06 12:07:59,041 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:15,058 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:15,059 - WARNING : serial closed
+2016-12-06 12:08:17,658 - INFO : ---------LOG START-------------
+2016-12-06 12:08:23,989 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:24,503 - INFO : Data packets received:365
+2016-12-06 12:08:24,503 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:08:25,490 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:25,523 - INFO : Data packets received:370
+2016-12-06 12:08:25,523 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:08:26,991 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:50,026 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:50,027 - WARNING : serial closed
+2016-12-06 12:08:52,163 - INFO : ---------LOG START-------------
+2016-12-06 12:08:58,495 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:08:58,556 - INFO : Data packets received:366
+2016-12-06 12:08:58,557 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:08:59,996 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:00,153 - INFO : Data packets received:371
+2016-12-06 12:09:00,153 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:09:01,599 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:01,758 - INFO : Data packets received:365
+2016-12-06 12:09:01,758 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:09:03,202 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:04,804 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:06,405 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:06,468 - INFO : Data packets received:1097
+2016-12-06 12:09:06,468 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:09:07,908 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:22,516 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:09:22,517 - WARNING : serial closed
+2016-12-06 12:10:18,776 - INFO : ---------LOG START-------------
+2016-12-06 12:10:25,120 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:26,621 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:28,121 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:28,275 - INFO : Data packets received:1109
+2016-12-06 12:10:28,276 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:10:29,720 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:29,773 - INFO : Data packets received:365
+2016-12-06 12:10:29,773 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:10:31,221 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:32,722 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:34,321 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:34,376 - INFO : Data packets received:1109
+2016-12-06 12:10:34,377 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:10:35,823 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:37,324 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:38,922 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:38,977 - INFO : Data packets received:1109
+2016-12-06 12:10:38,977 - WARNING : Skipped 31 bytes before start found
+2016-12-06 12:10:40,425 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:41,926 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:42,086 - INFO : Data packets received:744
+2016-12-06 12:10:42,086 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:10:43,531 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:10:43,587 - INFO : Data packets received:365
+2016-12-06 12:10:43,587 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:10:45,033 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:33,443 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:33,444 - WARNING : serial closed
+2016-12-06 12:11:37,183 - INFO : ---------LOG START-------------
+2016-12-06 12:11:43,518 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:43,578 - INFO : Data packets received:365
+2016-12-06 12:11:43,578 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:11:45,019 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:45,175 - INFO : Data packets received:371
+2016-12-06 12:11:45,175 - WARNING : Skipped 31 bytes before start found
+2016-12-06 12:11:46,616 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:46,676 - INFO : Data packets received:365
+2016-12-06 12:11:46,676 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:11:48,118 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:49,718 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:49,779 - INFO : Data packets received:737
+2016-12-06 12:11:49,779 - WARNING : Skipped 31 bytes before start found
+2016-12-06 12:11:51,220 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:51,377 - INFO : Data packets received:371
+2016-12-06 12:11:51,377 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:11:52,822 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:52,885 - INFO : Data packets received:365
+2016-12-06 12:11:52,885 - WARNING : Skipped 32 bytes before start found
+2016-12-06 12:11:54,325 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:11:55,921 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:12:18,197 - WARNING : sent <s>: stopped streaming
+2016-12-06 12:12:18,197 - WARNING : serial closed
+2016-12-06 13:35:29,948 - INFO : ---------LOG START-------------
+2016-12-06 13:35:36,293 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:35:48,306 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:35:48,307 - WARNING : serial closed
+2016-12-06 13:35:51,804 - INFO : ---------LOG START-------------
+2016-12-06 13:35:58,183 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:35:59,684 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:35:59,836 - INFO : Data packets received:738
+2016-12-06 13:35:59,837 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:36:01,281 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:02,881 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:03,023 - INFO : Data packets received:731
+2016-12-06 13:36:03,023 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:36:04,481 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:10,945 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:10,946 - WARNING : serial closed
+2016-12-06 13:36:16,032 - INFO : ---------LOG START-------------
+2016-12-06 13:36:22,382 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:22,437 - INFO : Data packets received:365
+2016-12-06 13:36:22,437 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:23,882 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:24,039 - INFO : Data packets received:371
+2016-12-06 13:36:24,040 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:25,484 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:25,699 - INFO : Data packets received:364
+2016-12-06 13:36:25,700 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:27,143 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:27,294 - INFO : Data packets received:364
+2016-12-06 13:36:27,294 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:28,750 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:28,901 - INFO : Data packets received:366
+2016-12-06 13:36:28,901 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:30,350 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:30,407 - INFO : Data packets received:365
+2016-12-06 13:36:30,407 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:31,852 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:31,882 - INFO : Data packets received:371
+2016-12-06 13:36:31,883 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:36:33,353 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:34,953 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:35,104 - INFO : Data packets received:738
+2016-12-06 13:36:35,104 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:36,554 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:38,152 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:38,221 - INFO : Data packets received:731
+2016-12-06 13:36:38,221 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:39,664 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:39,694 - INFO : Data packets received:373
+2016-12-06 13:36:39,694 - WARNING : Skipped 20 bytes before start found
+2016-12-06 13:36:39,753 - WARNING : ID:<206> <Unexpected END_BYTE found <0> instead of <192>
+2016-12-06 13:36:39,753 - DEBUG : 206|€  |   |   |À  |   |   |   |   |0|0|0|0
+2016-12-06 13:36:40,241 - WARNING : Skipped 36 bytes before start found
+2016-12-06 13:36:41,202 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:42,803 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:42,897 - INFO : Data packets received:730
+2016-12-06 13:36:42,897 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:36:44,342 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:44,413 - INFO : Data packets received:365
+2016-12-06 13:36:44,413 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:36:45,854 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:50,174 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:36:50,175 - WARNING : serial closed
+2016-12-06 13:43:58,233 - INFO : ---------LOG START-------------
+2016-12-06 13:44:04,782 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:04,880 - INFO : Data packets received:365
+2016-12-06 13:44:04,881 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:44:06,283 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:06,439 - INFO : Data packets received:371
+2016-12-06 13:44:06,439 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:44:07,881 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:09,382 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:09,522 - INFO : Data packets received:737
+2016-12-06 13:44:09,522 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:44:10,978 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:11,048 - INFO : Data packets received:365
+2016-12-06 13:44:11,048 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:44:12,479 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:12,532 - INFO : Data packets received:371
+2016-12-06 13:44:12,532 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:44:13,990 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:14,034 - INFO : Data packets received:373
+2016-12-06 13:44:14,034 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:44:15,491 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:17,028 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:17,093 - INFO : Data packets received:738
+2016-12-06 13:44:17,093 - WARNING : Skipped 31 bytes before start found
+2016-12-06 13:44:18,529 - WARNING : sent <s>: stopped streaming
+2016-12-06 13:44:18,621 - INFO : Data packets received:371
+2016-12-06 13:44:18,622 - WARNING : Skipped 32 bytes before start found
+2016-12-06 13:44:20,068 - WARNING : sent <s>: stopped streaming
